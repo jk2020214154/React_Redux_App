@@ -2,7 +2,7 @@
 # 效果展示
 
 * [github链接](https://github.com/jk2020214154/React_Redux_App) 
-* [acgit链接](https://git.acwing.com/jk20214154/react_redux_app)
+* [acgit链接](https://git.acwing.com/jk20214154/web_class/-/tree/master/5.4react_redux_app)
 
 > 功能实现：
 > 利用$redux$实现不同结点调用对方的操作,数字的加$2$,减$3$,和字符的加`y`
